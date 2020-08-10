@@ -1,0 +1,16 @@
+= README
+
+This is a source code for <<ModalPCA>>, written in Julia.
+The proposed method, *ModalPCA* , can be performed by:
+
+[source,julia]
+----
+include("ModalPCA.jl");
+ModalPCA(data)
+# `help?> ModalPCA` will give more information about arguments and return values.
+----
+
+`include('supp_art.jl')` executes one of experiments in our paper.
+
+[bibliography]
+- [[[ModalPCA]]] Sando, K., & Hino, H. (2020). Modal Principal Component Analysis.
