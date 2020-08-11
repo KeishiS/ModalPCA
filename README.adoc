@@ -13,4 +13,4 @@ ModalPCA(data)
 `include('supp_art.jl')` executes one of experiments in our paper.
 
 [bibliography]
-- [[[ModalPCA]]] Sando, K., & Hino, H. (2020). Modal Principal Component Analysis.
+- [[[ModalPCA]]] Sando, K., & Hino, H. (2020). Modal Principal Component Analysis, Neural Computation
